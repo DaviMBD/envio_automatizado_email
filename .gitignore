@@ -1,0 +1,10 @@
+# Arquivo de variáveis sensíveis
+.env
+
+# Pycache e arquivos temporários
+__pycache__/
+*.pyc
+
+# Pastas de IDEs
+.vscode/
+.idea/
